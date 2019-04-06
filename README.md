@@ -3,9 +3,13 @@ A collection of projects that I've worked on in data science.
 
 #### Algorithms Include:
 
-Supervised learning methods: Decision Trees, Random Forests, K Means Clustering, K Nearest Neighbors, Logistic Regression, Support Vector Machines, 
+Machine learning: Decision Trees, Random Forests, K Means Clustering, K Nearest Neighbors, Logistic Regression, Support Vector Machines, 
 
+#### Convolutional Neural Network: 
 
+Used for predicting a species through labeled image data. The program takes in an input image, assigns importance (learnable weights and biases) to various aspects/objects in the image and be able to differentiate one from the other. The structure of nodes/neurons is modelled after the brain. 
+
+3 Covolutional layers are used for improved performance, flattening techniques are used as well. It is a feedforward CNN, and through training, the errors are backpropagated and weights are continually adjusted. 
 
 #### Lending Club Data Set: 
 
